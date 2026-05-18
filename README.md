@@ -21,8 +21,8 @@ The administration of this test has **2 EASY STEPS**:
 ## Step 1: Download and run the dLBT installer
 
 - **Right-Click to download the installer for your platform (Mac or Windows):** <br> 
-	- [cLBT App for Mac](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT_Mac.zip) (approx. 1.9 MB)<br> 
-	- [cLBT App for Windows](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT_Windows.exe.zip) (approx. 3 MB) <br><br>
+	- [dLBT App for Mac](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT_Mac.zip) (approx. 1.9 MB)<br> 
+	- [dLBT App for Windows](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT_Windows.exe.zip) (approx. 3 MB) <br><br>
 	<img src="images/dwld_zip.png" width = "400">
 - Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
 
