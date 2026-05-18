@@ -7,7 +7,7 @@
 
 **Welcome to the GitHub page for the digital version of the Line Bisection Test!** <br><br>
 The administration of this test has **2 EASY STEPS**:
- 1. Download and run the cLBT installer
+ 1. Download and run the dLBT installer
  2. Administer the test<br>
 	
 **See below for instructions on setup and administration.**<br>
