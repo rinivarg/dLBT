@@ -2,7 +2,7 @@
 [![Funding](https://img.shields.io/badge/NIH-T32HD007414-blue)](https://reporter.nih.gov/search/uL-lQMNH5U69FQcF6mvbig/project-details/11061238)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/rinivarg-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rinivarg/)
 
-# LineTest: An Open-Source Digital Line Bisection Tool (cLBT)
+# Digital Line Bisection Test (dLBT): A Free, Open-Source Tool to Assess Visuospatial Neglect
 *[Rini Varghese](https://github.com/rinivarg), [Jasmine Ma](https://github.com/Jasmine77766), [Carolee Winstein](https://github.com/cwinstein)*<br>
 
 **Welcome to the GitHub page for the digital version of the Line Bisection Test!** <br><br>
@@ -116,7 +116,8 @@ The output folder contains the following files: <br>
 - **log_[mm-dd-yyyy-hh-mm].txt**<br>Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the mean and sd of percent deviation from the center, [NEW measure] the endpoint weights and weighting bias, and the total time taken to complete the test.<br>
 - **LBT_[`ID_sex`_trial#].jpeg**<br> Low-res image files for each trial showing participant performance.
 
-See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/master/example/LBT_051020rv_F)
+See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/main/example/LBT_2025-12-15-rv_f)
+
 ****
 </details> 
 
